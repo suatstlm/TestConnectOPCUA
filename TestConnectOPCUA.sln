@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConnectOPCUA", "TestConnectOPCUA\TestConnectOPCUA.csproj", "{32583A2D-45A3-47CC-9341-206D1E4EA165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPCConsoleApp", "OPCConsoleApp\OPCConsoleApp.csproj", "{05284BA8-A08A-4C64-A3CA-F23E15886792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32583A2D-45A3-47CC-9341-206D1E4EA165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32583A2D-45A3-47CC-9341-206D1E4EA165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32583A2D-45A3-47CC-9341-206D1E4EA165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32583A2D-45A3-47CC-9341-206D1E4EA165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05284BA8-A08A-4C64-A3CA-F23E15886792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05284BA8-A08A-4C64-A3CA-F23E15886792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05284BA8-A08A-4C64-A3CA-F23E15886792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05284BA8-A08A-4C64-A3CA-F23E15886792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {956633D1-0BD7-4D18-ABD9-041DBB65D436}
+	EndGlobalSection
+EndGlobal
